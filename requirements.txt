@@ -1,0 +1,2 @@
+modelop_sdk==0.3.2
+modelop==0.13.0

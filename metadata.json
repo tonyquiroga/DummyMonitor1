@@ -1,0 +1,11 @@
+{
+    "tags": [],
+    "name": "Default Dashboard Model",
+    "description": "Runs default monitors on a base business model generating data for the main MOC Dashboard",
+    "modelCategory": "MODEL_MONITORING_MODEL",
+    "defaultAssociationRole": "METRICS_MODEL",
+    "frequentlyUsed": true,
+    "custom": {
+        "modelopPackageVersion": "0.13.0"
+    }
+}
